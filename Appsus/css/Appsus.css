@@ -1,0 +1,7 @@
+@import 'vars.css';
+
+body {
+    background-color: var(--colorA);
+    color: var(--colorB); 
+    height: 100vh;
+}
